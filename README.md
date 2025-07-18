@@ -1,7 +1,7 @@
 # libkasm
 
 **libkasm** is a modular tokenizer, parser, and assembler framework written in C.  
-It’s designed for building custom instruction sets and bytecode formats — perfect for emulators, fantasy consoles, embedded projects, or whatever cursed CPU you’re cooking up.
+It’s designed for building custom instruction sets and bytecode formats — perfect for emulators, fantasy consoles or embedded projects.
 
 ---
 
