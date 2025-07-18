@@ -1,0 +1,44 @@
+# Build directories
+/build/
+/out/
+/bin/
+/obj/
+
+# CMake junk
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# VSCode config (if local-only, optional)
+.vscode/
+
+# Compiled binaries
+*.exe
+*.out
+*.elf
+*.hex
+
+# Object files
+*.o
+*.obj
+
+# Static and shared libs
+*.a
+*.so
+*.dll
+*.lib
+*.dylib
+
+# Logs and dumps
+*.log
+*.map
+*.core
+*.dmp
+
+# Temp/editor files
+*~
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
