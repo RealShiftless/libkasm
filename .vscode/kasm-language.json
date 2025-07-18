@@ -1,0 +1,23 @@
+{
+  "name": "kasm",
+  "fileExtensions": [".kasm"],
+  "scopeName": "source.kasm",
+  "patterns": [
+    {
+      "match": "\\b(?:ldr|str|mov|add|sub|jmp|nop|hlt)\\b",
+      "name": "keyword.mnemonic.kasm"
+    },
+    {
+      "match": "#0x[0-9A-Fa-f]+",
+      "name": "constant.numeric.hex.kasm"
+    },
+    {
+      "match": "r[0-9]+",
+      "name": "variable.register.kasm"
+    },
+    {
+      "match": ";.*$",
+      "name": "comment.line.semicolon.kasm"
+    }
+  ]
+}

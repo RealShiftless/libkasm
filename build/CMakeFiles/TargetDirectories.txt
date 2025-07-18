@@ -1,0 +1,5 @@
+D:/My Folders/Programming/C/Projects/libkasm/build/CMakeFiles/kasm_shared.dir
+D:/My Folders/Programming/C/Projects/libkasm/build/CMakeFiles/kasm.dir
+D:/My Folders/Programming/C/Projects/libkasm/build/CMakeFiles/km8.dir
+D:/My Folders/Programming/C/Projects/libkasm/build/CMakeFiles/edit_cache.dir
+D:/My Folders/Programming/C/Projects/libkasm/build/CMakeFiles/rebuild_cache.dir

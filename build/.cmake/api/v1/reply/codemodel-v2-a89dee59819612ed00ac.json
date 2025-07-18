@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kasm_toolchain",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kasm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kasm-Debug-2fa0a5dcd69b9f5fab4c.json",
+					"name" : "kasm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kasm_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kasm_shared-Debug-4fb0724709a6b4cf38dd.json",
+					"name" : "kasm_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "km8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-km8-Debug-26b685e365bcb827a767.json",
+					"name" : "km8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/My Folders/Programming/C/Projects/libkasm/build",
+		"source" : "D:/My Folders/Programming/C/Projects/libkasm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

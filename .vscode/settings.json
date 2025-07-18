@@ -1,0 +1,39 @@
+{
+    "files.associations": {
+        "getopt.h": "c",
+        "lexer.h": "c",
+        "stdint.h": "c",
+        "libkasm.h": "c",
+        "*.kasm": "kasm"
+    },
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.mnemonic.kasm",
+        "settings": {
+          "foreground": "#ff79c6",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "constant.numeric.hex.kasm",
+        "settings": {
+          "foreground": "#bd93f9"
+        }
+      },
+      {
+        "scope": "variable.register.kasm",
+        "settings": {
+          "foreground": "#8be9fd"
+        }
+      },
+      {
+        "scope": "comment.line.semicolon.kasm",
+        "settings": {
+          "foreground": "#6272a4",
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  }
+}

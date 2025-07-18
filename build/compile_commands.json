@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/My Folders/Programming/C/Projects/libkasm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -Dkasm_shared_EXPORTS @CMakeFiles/kasm_shared.dir/includes_C.rsp -g -o CMakeFiles\\kasm_shared.dir\\src\\lexer.c.obj -c \"D:\\My Folders\\Programming\\C\\Projects\\libkasm\\src\\lexer.c\"",
+  "file": "D:/My Folders/Programming/C/Projects/libkasm/src/lexer.c",
+  "output": "CMakeFiles/kasm_shared.dir/src/lexer.c.obj"
+},
+{
+  "directory": "D:/My Folders/Programming/C/Projects/libkasm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -Dkasm_shared_EXPORTS @CMakeFiles/kasm_shared.dir/includes_C.rsp -g -o CMakeFiles\\kasm_shared.dir\\src\\libkasm.c.obj -c \"D:\\My Folders\\Programming\\C\\Projects\\libkasm\\src\\libkasm.c\"",
+  "file": "D:/My Folders/Programming/C/Projects/libkasm/src/libkasm.c",
+  "output": "CMakeFiles/kasm_shared.dir/src/libkasm.c.obj"
+},
+{
+  "directory": "D:/My Folders/Programming/C/Projects/libkasm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -Dkasm_shared_EXPORTS @CMakeFiles/kasm_shared.dir/includes_C.rsp -g -o CMakeFiles\\kasm_shared.dir\\src\\list.c.obj -c \"D:\\My Folders\\Programming\\C\\Projects\\libkasm\\src\\list.c\"",
+  "file": "D:/My Folders/Programming/C/Projects/libkasm/src/list.c",
+  "output": "CMakeFiles/kasm_shared.dir/src/list.c.obj"
+},
+{
+  "directory": "D:/My Folders/Programming/C/Projects/libkasm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/kasm.dir/includes_C.rsp -g -o CMakeFiles\\kasm.dir\\cli\\main.c.obj -c \"D:\\My Folders\\Programming\\C\\Projects\\libkasm\\cli\\main.c\"",
+  "file": "D:/My Folders/Programming/C/Projects/libkasm/cli/main.c",
+  "output": "CMakeFiles/kasm.dir/cli/main.c.obj"
+},
+{
+  "directory": "D:/My Folders/Programming/C/Projects/libkasm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/kasm.dir/includes_C.rsp -g -o CMakeFiles\\kasm.dir\\cli\\vendor\\getopt.c.obj -c \"D:\\My Folders\\Programming\\C\\Projects\\libkasm\\cli\\vendor\\getopt.c\"",
+  "file": "D:/My Folders/Programming/C/Projects/libkasm/cli/vendor/getopt.c",
+  "output": "CMakeFiles/kasm.dir/cli/vendor/getopt.c.obj"
+},
+{
+  "directory": "D:/My Folders/Programming/C/Projects/libkasm/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -Dkm8_EXPORTS @CMakeFiles/km8.dir/includes_C.rsp -g -o CMakeFiles\\km8.dir\\targets\\km8\\km8.c.obj -c \"D:\\My Folders\\Programming\\C\\Projects\\libkasm\\targets\\km8\\km8.c\"",
+  "file": "D:/My Folders/Programming/C/Projects/libkasm/targets/km8/km8.c",
+  "output": "CMakeFiles/km8.dir/targets/km8/km8.c.obj"
+}
+]

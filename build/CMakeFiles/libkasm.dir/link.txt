@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\libkasm.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\libkasm.dir/objects.a @CMakeFiles\libkasm.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -shared -o bin\liblibkasm.dll -Wl,--out-implib,lib\liblibkasm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\libkasm.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\libkasm.dir\linkLibs.rsp
